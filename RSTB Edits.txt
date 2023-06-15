@@ -1,0 +1,11 @@
+Model/Obj_TBox_Field_Iron_Aster0.TBox_Field_Iron_Aster0.bfres: 132560
+
+Banc/MainField/E-6_Static.bcett.byml: 369864
+
+Pack/Actor/TBox_Field_Iron_Aster0.pack: 63752
+
+RSDB/ActorInfo.Product.112.rstbl.byml: 4049168
+
+TexToGo/TBox_Field_Iron_Aster0_Alb.txtg: 166334
+TexToGo/TBox_Field_Iron_Aster0_Mtl.txtg: 2196
+TexToGo/TBox_Field_Iron_Aster0_Nrm.txtg: 90676
